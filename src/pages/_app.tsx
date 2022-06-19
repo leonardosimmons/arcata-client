@@ -1,3 +1,5 @@
+import '../styles/styles.scss';
+
 import React from 'react';
 import type { AppProps } from 'next/app';
 
